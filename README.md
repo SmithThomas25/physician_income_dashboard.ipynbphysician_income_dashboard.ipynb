@@ -59,4 +59,4 @@ Subject to:
 
 ## Author
 
-[Your Name]
+Smith Thomas Dotonou
